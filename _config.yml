@@ -1,14 +1,14 @@
 # Site settings
-title: Louis Rassaby
+title: Walter Bolitto Carvalho
 description: |
   Louis Rassaby is a NYC-based software engineer and entrepreneur currently at Google.
   He's the founder of Wirefreight, a customer service platform for freight. Previously, Louis led the new products engineering team
   at Phosphorus Genomics.
 
-url: http://rassaby.com
+url: http://bolitto.github.io
 
-about_title: About
-projects_title: Home
+about_title: Sobre
+projects_title: Página Inicial
 
 # User settings
 user_description_appendix: |
@@ -18,23 +18,18 @@ user_description_appendix: |
   I built this site in [Jekyll][jekyll], and it's hosted for free on [GitHub Pages][gh-pages]. It's open source, so if
   you like it, feel free to fork it on [GitHub][github] and make your own version.
 
-  [github]: https://github.com/lrassaby/lrassaby.github.io
-  [gh-pages]: https://pages.github.com/
-  [jekyll]: https://jekyllrb.com
 
-
-email: louis@rassaby.com
-linkedin: lrassaby
-github: lrassaby
+email: bolitto.walter@gmail.com
+linkedin: walter-bolitto-carvalho-851290120
+github: bolitto
 #angellist: rassaby
 
-relevant_tags: ['projects', 'music', 'tech-blog']
+relevant_tags: ['projetos', 'aulas', 'outros']
 
-resume_url: https://docs.google.com/document/d/1dJIboSF-ktdaP28DDu-gcuOW1SCCnkSdqtodJGwYkaA/export?format=pdf
-music_resume_url: https://docs.google.com/document/d/17F3g8jx2UHby77P7shJlsKAW2Efasuc1HuQ3Ro3v3zI/export?format=pdf
+resume_url: https://bolitto.github.io/cv/
 
-author: Louis Rassaby
-author_title: Software Engineer
+author: Walter Bolitto Carvalho
+author_title: 
 author_photo: profile-photo.jpg
 user_description_short: |
   I'm a Brooklyn-based software engineer and entrepreneur currently at Google.
@@ -46,21 +41,7 @@ user_description_short: |
   Away from the keyboard, I make food and music. I'm half of a band called [Cellolele][cellolele] and I once played in
   an ad for [Versace][versace].
 
-  [scala]: https://www.scala-lang.org/
-  [couple]: https://wirefreight.com/
-  [cellolele]: /cellolele-toxic/
-  [wirefreight]: http://wirefreight.com/
-  [ppp]: http://postpartumproject.com/
-  [versace]: /versace-eyewear
-
-
-## Disqus
-disqus_identifier: rassaby
-
-## Tracker
-google_analytics_id: UA-109461282-1
-
-keywords: 'software,engineer,design,scala,cello,music,louis rassaby,rassaby'
+keywords: 'bolitto,walter bolitto,walter bolitto carvalho,educação,board games,jogos,educação e tecnologia'
 
 ## URLs
 permalink: ':title/'
