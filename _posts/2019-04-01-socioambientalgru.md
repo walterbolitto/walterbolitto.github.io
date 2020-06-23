@@ -6,13 +6,11 @@ tags: [outros]
 image: posts/socioambientalgru1.png	
 ---
 
-2018 - 2019
-
 Com as novas tecnologias de cartografias digitais, os mapas colaborativos surgiram em função da necessidade das comunidades em se organizarem, onde, além do conscientização e engajamento por parte do colaborador, este também funciona como sensor no trabalho de monitoramento e levantamento dos dados. A realização de um estudo de mapeamento coletivo dos pontos de reciclagem, no contexto municipal, é capaz de identificar áreas com desigualdade ambiental, relacionado a ausência de instrumentos públicos de coleta e ao debate de ontologias ambientais. O projeto teve como objetivo, mapear e categorizar no território de Guarulhos, através de uma plataforma de mapeamento coletivo, atividades, agentes e espaços que se relacionam com iniciativas socioambientais, podendo analisar a dimensão participativa dos diversos setores dentro do espaço urbano de Guarulhos.
 
 ![map1]
 
-O projeto foi laureado com o segundo lugar no prêmio Selo Ambiental da Prefeitura Municipal de Guarulhos, na categoria Iniciativa Científica, e os pontos de entrega de materiais recicláveis mapeados foram utilizados para análise exploratória de dados espaciais, sendo publicado sob a forma de <u><a href="http://icongresso.anppas.itarget.com.br/arquivos/trabalhos_completos/anppas/3/420_15112018_161033.pdf">resumo expandido</a></u> no 1° Encontro Nacional ANPPAS Sudeste.
+O projeto funcinou nos anos de 2018 e 2019, além disso, foi laureado com o segundo lugar no prêmio Selo Ambiental da Prefeitura Municipal de Guarulhos em 2018, na categoria Iniciativa Científica, e os pontos de entrega de materiais recicláveis mapeados foram utilizados para análise exploratória de dados espaciais, sendo publicado sob a forma de <u><a href="http://icongresso.anppas.itarget.com.br/arquivos/trabalhos_completos/anppas/3/420_15112018_161033.pdf">resumo expandido</a></u> no 1° Encontro Nacional ANPPAS Sudeste.
 
 ![map2]
 
