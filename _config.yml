@@ -48,7 +48,7 @@ permalink: ':title/'
 
 baseurl: ''
 projects_url: '/'
-about_url: '/about'
+about_url: '/sobre'
 
 
 plugins:
