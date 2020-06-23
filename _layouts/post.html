@@ -15,6 +15,7 @@ layout: default
             <div class="page-content">
                 <div class="header-page">
                     <h1 class="page-title">{{page.title}}</h1>
+                    <div class="page-date"><time datetime="{{page.date}}">{{page.date | date: '%Y'}}</time></div>
                     <div class="page-links">
                     {% if page.github %}
                     <a class="btn btn-secondary" href="{{page.github}}" target="_blank">GitHub</a>
