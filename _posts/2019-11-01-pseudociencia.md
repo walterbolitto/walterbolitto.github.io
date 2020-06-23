@@ -26,5 +26,5 @@ Os cientistas vencem publicando cinco artigos científicos com financiamento de 
 
 <a href="https://www.ludopedia.com.br/jogo/pseudociencia">Link do jogo na Ludopedia</a>
 
-[pseudo]: /assets/img/posts/pseudo1.png "Imagem do jogo"
-[pseudoa]: /assets/img/posts/pseudo2.png "Imagem do jogo"
+[pseudo]: /assets/img/posts/pseudo1.jpg "Imagem do jogo"
+[pseudoa]: /assets/img/posts/pseudo2.jpg "Imagem do jogo"
