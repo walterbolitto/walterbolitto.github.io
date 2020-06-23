@@ -19,6 +19,7 @@ O projeto foi laureado com o segundo lugar no prêmio Selo Ambiental da Prefeitu
 Matéria do jornal Guarulhos Web (Junho/2018). <u><a href="https://www.guarulhosweb.com.br/noticia.php?nr=283135&t=Universitarios+de+Guarulhos+promovem+mapeamento+socioambiental+colaborativo">Guarulhos Web</a></u>
 
 ![map3]
+
 [map1]: /assets/img/posts/socioambientalgru2.png "Imagem da ferramenta"
 [map2]: /assets/img/posts/socioambientalgru3.png "Imagem da ferramenta"
 [map3]: /assets/img/posts/socioambientalgru4.png "Imagem da ferramenta"
