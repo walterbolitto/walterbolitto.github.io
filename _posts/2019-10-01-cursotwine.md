@@ -13,6 +13,6 @@ Na contramão das novas ferramentas de criação de jogos, que exigem grandes eq
 Exemplo de jogos desenvolvidos durante o curso
 ![jogos]
 
-<a href="http://pesquisa.ufabc.edu.br/lirte/diversaoseria/twine2019/">Informações sobre o curso dado em junho de 2019</a><
+<a href="http://pesquisa.ufabc.edu.br/lirte/diversaoseria/twine2019/">Informações sobre o curso dado em junho de 2019</a>
 
 [jogos]: /assets/img/posts/lab_twine2.png "Jogos desenvolvidos durante o curso"
