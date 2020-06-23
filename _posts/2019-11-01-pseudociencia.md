@@ -12,7 +12,7 @@ Pseudociência é um jogo de cartas com mecânicas de dedução. Foi projetado c
 
 O jogo foi projetado para 5-10 jogadores, com duração média de 30 minutos e é disponibilizado como print-and-play (ou imprima-e-jogue), onde você pode baixar e imprimir os arquivos, e montá-lo de forma acessível.
 
-![pseudo1]
+![pseudo]
 
 O manual oferece as regras do jogo, dicas de como utilizá-lo em sala de aula e as melhores práticas para preparar os componentes da forma mais atrativa possível.
 
@@ -20,11 +20,11 @@ No começo do jogo, a cada jogador é atribuído um papel secretamente – cient
 
 Os cientistas vencem publicando cinco artigos científicos com financiamento de bolsas de pesquisa ou denunciando o pseudocientista à comunidade científica. O pseudocientista e os seguidores vencem publicando seis artigos pseudocientíficos com financiamento de bolsas de pesquisa ou se o pseudocientista se torna coautor após três publicações em periódicos predatórios, por ser convidado a ser editor de um periódico de prestígio.
 
-![pseudo2]
+![pseudoa]
 
 <a href="https://bolitto.itch.io/pseudociencia">Link do jogo no Itchio</a>
 
 <a href="https://www.ludopedia.com.br/jogo/pseudociencia">Link do jogo na Ludopedia</a>
 
-[pseudo1]: /assets/img/posts/pseudo1.png "Imagem do jogo"
-[pseudo2]: /assets/img/posts/pseudo2.png "Imagem do jogo"
+[pseudo]: /assets/img/posts/pseudo1.png "Imagem do jogo"
+[pseudoa]: /assets/img/posts/pseudo2.png "Imagem do jogo"
