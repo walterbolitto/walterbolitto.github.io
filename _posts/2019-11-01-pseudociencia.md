@@ -6,8 +6,6 @@ tags: [jogos]
 image: posts/pseudo0.png
 ---
 
-2019
-
 Pseudociência é um jogo de cartas com mecânicas de dedução. Foi projetado como ferramenta mediadora do problema da demarcação, introduzindo jovens à noções de princípios científicos e não-científicos, possibilitando assim um debate sobre a definição de ciência em sala de aula. Ao mesmo tempo pode ser jogado como um jogo festivo com seus amigos enquanto você espera que seu orientador termine de revisar o pré-projeto de sua dissertação.
 
 O jogo foi projetado para 5-10 jogadores, com duração média de 30 minutos e é disponibilizado como print-and-play (ou imprima-e-jogue), onde você pode baixar e imprimir os arquivos, e montá-lo de forma acessível.
