@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mapeamento Socioambiental Gru
+title: Mapeamento Socioambiental Gru [2018]
 date: 2018-07-01 00:00:00 -0000
 tags: [outros]
 image: posts/socioambientalgru1.png	
