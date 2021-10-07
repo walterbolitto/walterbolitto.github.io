@@ -20,6 +20,10 @@ Os cientistas vencem publicando cinco artigos científicos com financiamento de 
 
 ![pseudoa]
 
+O termo pseudociência diz respeito a determinados conhecimentos nos quais pessoas afirmam que estão baseados em fatos científicos, mesmo não fazendo uso do método científico. Isso pode ser observado por exemplo nos trabalhos de negacionistas do aquecimento global.
+
+É importante ressaltar que o termo também é utilizado de forma pejorativa. Vemos que práticas religiosas de religiões majoritárias são classificadas corretamente como atividades relacionadas à determinada religião, ao mesmo tempo que vemos práticas de minorias religiosas sendo classificadas erroneamente como pseudociência, mesmo que sejam compreendidas pelos praticantes como atividades religiosas e esotéricas.
+
 <a href="https://bolitto.itch.io/pseudociencia">Link do jogo no Itchio</a>
 
 <a href="https://www.ludopedia.com.br/jogo/pseudociencia">Link do jogo na Ludopedia</a>
