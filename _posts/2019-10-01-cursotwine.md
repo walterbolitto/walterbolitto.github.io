@@ -2,7 +2,7 @@
 layout: post
 title: Criação de games e narrativas interativas com o Twine [2019]
 date: 2019-10-01 00:00:00 -0000
-tags: [cursos]
+tags: [ensino]
 image: posts/lab_twine1.png
 ---
 
