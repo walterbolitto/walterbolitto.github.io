@@ -38,7 +38,7 @@ permalink: ':title/'
 baseurl: ''
 projects_url: '/'
 about_url: '/sobre'
-
+publicacoes_url: '/publicacoes'
 
 plugins:
   - jekyll-feed
