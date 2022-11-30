@@ -10,11 +10,11 @@ Com as novas tecnologias de cartografias digitais, os mapas colaborativos surgir
 
 ![map1]
 
-O projeto funcinou nos anos de 2018 e 2019, além disso, foi laureado com o segundo lugar no prêmio Selo Ambiental da Prefeitura Municipal de Guarulhos em 2018, na categoria Iniciativa Científica, e os pontos de entrega de materiais recicláveis mapeados foram utilizados para análise exploratória de dados espaciais, sendo publicado sob a forma de <u><a href="http://icongresso.anppas.itarget.com.br/arquivos/trabalhos_completos/anppas/3/420_15112018_161033.pdf">resumo expandido</a></u> no 1° Encontro Nacional ANPPAS Sudeste.
+O projeto funcinou nos anos de 2018 e 2019, além disso, foi laureado com o segundo lugar no prêmio Selo Ambiental da Prefeitura Municipal de Guarulhos em 2018, na categoria Iniciativa Científica (https://issuu.com/folhametropolitana/docs/folha_metropolitana_ed_249/5), e os pontos de entrega de materiais recicláveis mapeados foram utilizados para análise exploratória de dados espaciais, sendo publicado sob a forma de resumo expandido (http://icongresso.anppas.itarget.com.br/arquivos/trabalhos_completos/anppas/3/420_15112018_161033.pdf) no 1° Encontro Nacional ANPPAS Sudeste.
 
 ![map2]
 
-Matéria do jornal Guarulhos Web (Junho/2018). <u><a href="https://www.guarulhosweb.com.br/noticia.php?nr=283135&t=Universitarios+de+Guarulhos+promovem+mapeamento+socioambiental+colaborativo">Guarulhos Web</a></u>
+Matéria do jornal Guarulhos Web (Junho/2018). <u><a href="[https://www.guarulhosweb.com.br/noticia.php?nr=283135&t=Universitarios+de+Guarulhos+promovem+mapeamento+socioambiental+colaborativo](https://web.archive.org/web/20221130224629/https://guarulhosweb.com.br/universitarios-de-guarulhos-promovem-mapeamento-socioambiental-colaborativo/)">Guarulhos Web</a></u>
 
 ![map3]
 
