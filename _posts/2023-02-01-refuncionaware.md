@@ -8,6 +8,6 @@ image: posts/Refuncionaware.png
 
 <a href="https://refuncionaware.github.io/">Link</a>
 
-Ementas
+# Hashtag Ementas para futuros virtuais
 
-<a href="https://refuncionaware.github.io/ementas/etnomatematica">#EmentaEtnomatemática</a>
+Proposta de ementa para aprendizagem de Etnomatemática com base no itinerário formativo “Números nas diferentes culturas” do Estado de SP - <a href="https://refuncionaware.github.io/ementas/etnomatematica">#EmentaEtnomatemática</a>.
