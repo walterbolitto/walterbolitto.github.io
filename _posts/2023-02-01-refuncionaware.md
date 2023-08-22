@@ -6,8 +6,6 @@ tags: [outros]
 image: posts/Refuncionaware.png
 ---
 
-<a href="https://refuncionaware.github.io/">Link</a>
+Escritos para uma virada crítica na Educação e Tecnologia.
 
-# Hashtag Ementas para futuros virtuais
-
-Proposta de ementa para aprendizagem de Etnomatemática com base no itinerário formativo “Números nas diferentes culturas” do Estado de SP - <a href="https://refuncionaware.github.io/ementas/etnomatematica">#EmentaEtnomatemática</a>.
+<a href="https://refuncionaware.github.io/">[Link](https://refuncionaware.github.io/)</a>
