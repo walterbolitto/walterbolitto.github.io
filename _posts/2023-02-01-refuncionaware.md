@@ -6,6 +6,6 @@ tags: [textos, educação]
 image: posts/Refuncionaware.png
 ---
 
-Escritos para uma virada crítica na Educação e Tecnologia.
+Escritos sobre a virada crítica em Educação e Tecnologia e assuntos relacionados.
 
 <a href="https://refuncionaware.github.io/">[Link](https://refuncionaware.github.io/)</a>
