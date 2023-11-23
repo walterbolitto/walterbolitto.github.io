@@ -2,7 +2,7 @@
 layout: post
 title: Pseudociência [2019]
 date: 2019-11-01 00:00:00 -0000
-tags: [jogos]
+tags: [produção técnica]
 image: posts/pseudo0.png
 ---
 
