@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EMPADARIA - framework para o desenvolvimento de ficções interativas por meio da Pedagogia de Projetos [2021-2024]
+title: O framework EMPADARIA [2021-2024]
 date: 2024-05-03 00:00:00 -0000
 tags: [produção-técnica, textos]
 image: posts/emp0.png	
