@@ -1,6 +1,6 @@
 ---
 layout: post
-title: O framework EMPADARIA [2021-2024]
+title: Framework EMPADARIA [2021-2024]
 date: 2024-03-05 00:00:00 -0000
 tags: [produção-técnica, textos]
 image: posts/emp0.png	
