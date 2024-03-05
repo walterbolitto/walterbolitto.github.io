@@ -14,7 +14,7 @@ O projeto funcinou nos anos de 2018 e 2019, além disso, foi laureado com o segu
 
 ![map2]
 
-Matéria do jornal Guarulhos Web (Junho/2018). <u><a href="[https://www.guarulhosweb.com.br/noticia.php?nr=283135&t=Universitarios+de+Guarulhos+promovem+mapeamento+socioambiental+colaborativo](https://web.archive.org/web/20221130224629/https://guarulhosweb.com.br/universitarios-de-guarulhos-promovem-mapeamento-socioambiental-colaborativo/)">Guarulhos Web</a></u>
+Matéria do jornal Guarulhos Web (Junho/2018). <a href="https://guarulhosweb.com.br/universitarios-de-guarulhos-promovem-mapeamento-socioambiental-colaborativo/">Guarulhos Web</a>
 
 ![map3]
 
