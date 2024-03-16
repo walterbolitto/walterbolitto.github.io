@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tefuncionamento [2023-]
+title: Refuncionamento [2023-]
 date: 2023-02-01 00:00:00 -0000
 tags: [textos]
 image: posts/Refuncionaware.png
