@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Refuncionalizar [2023-]
-date: 2023-02-01 00:00:00 -0000
+date: 2024-06-06 00:00:00 -0000
 tags: [textos]
 image: posts/Refuncionaware.png
 ---
