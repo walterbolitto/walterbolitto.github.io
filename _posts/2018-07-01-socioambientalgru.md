@@ -10,7 +10,7 @@ Com as novas tecnologias de cartografias digitais, os mapas colaborativos surgir
 
 ![map1]
 
-O projeto funcinou nos anos de 2018 e 2019, além disso, foi laureado com o segundo lugar no prêmio Selo Ambiental da Prefeitura Municipal de Guarulhos em 2018, na categoria Iniciativa Científica (https://issuu.com/folhametropolitana/docs/folha_metropolitana_ed_249/5), e os pontos de entrega de materiais recicláveis mapeados foram utilizados para análise exploratória de dados espaciais, sendo publicado sob a forma de resumo expandido (http://icongresso.anppas.itarget.com.br/arquivos/trabalhos_completos/anppas/3/420_15112018_161033.pdf) no 1° Encontro Nacional ANPPAS Sudeste.
+O projeto funcinou nos anos de 2018 e 2019, além disso, foi laureado com o segundo lugar no prêmio Selo Ambiental da Prefeitura Municipal de Guarulhos em 2018, na categoria <a href="https://issuu.com/folhametropolitana/docs/folha_metropolitana_ed_249/5">Iniciativa Científica</a>, e os pontos de entrega de materiais recicláveis mapeados foram utilizados para análise exploratória de dados espaciais, sendo publicado sob a forma de resumo expandido no <a href="http://icongresso.anppas.itarget.com.br/arquivos/trabalhos_completos/anppas/3/420_15112018_161033.pdf">1° Encontro Nacional ANPPAS Sudeste</a>.
 
 ![map2]
 
