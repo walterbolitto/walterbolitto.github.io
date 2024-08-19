@@ -6,7 +6,7 @@ tags: [produção-técnica]
 image: posts/pseudo0.png
 ---
 
-Jogos desenvolvidos e publicados em <a href="https://bolitto.itch.io/"> https://bolitto.itch.io/</a>, propostos para a educação formal e não-formal.
+Jogos desenvolvidos e publicados em <a href="https://bolitto.itch.io/">https://bolitto.itch.io/</a>, propostos para a educação formal e não-formal.
 
 ## Pseudociência
 
