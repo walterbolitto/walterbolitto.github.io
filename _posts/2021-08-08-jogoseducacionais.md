@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jogos Educacionais [2019-2021]
+title: Jogos educacionais [2019-2021]
 date: 2021-08-08 00:00:00 -0000
 tags: [produção-técnica]
 image: posts/pseudo0.png
