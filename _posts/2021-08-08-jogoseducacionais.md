@@ -8,7 +8,7 @@ image: posts/pseudo0.png
 
 Jogos desenvolvidos e publicados em <a href="https://bolitto.itch.io/">https://bolitto.itch.io/</a>, propostos para a educação formal e não-formal.
 
-## Pseudociência
+## Pseudociência (2019)
 
 Pseudociência é um jogo de cartas com mecânicas de dedução. Foi projetado como ferramenta mediadora do problema da demarcação, introduzindo jovens à noções de princípios científicos e não-científicos, possibilitando assim um debate sobre a definição de ciência em sala de aula. Ao mesmo tempo pode ser jogado como um jogo festivo com seus amigos enquanto você espera que seu orientador termine de revisar o pré-projeto de sua dissertação.
 
@@ -38,7 +38,7 @@ O termo pseudociência diz respeito a determinados conhecimentos nos quais pesso
 [pseudoa]: /assets/img/posts/pseudo3.png "Imagem do jogo digital"
 [pseudob]: /assets/img/posts/pseudo4.png "Imagem do jogo digital"
 
-## Momentum
+## Momentum (2021)
 
 Momentum é um jogo educacional para celular que tem como objetivo introduzir conteúdos de momento linear e momento angular, sendo aplicável na educação formal e não-formal. O jogo apresenta o lançamento de uma sonda brasileira com destino à Saturno, a fim de extrair dados do planeta e de suas luas. 
 
