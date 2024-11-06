@@ -30,7 +30,10 @@ O framework e o material de apoio faz parte do trabalho de mestrado intitulado "
 
 ![emp4]
 
-<center>Desenvolvimento e resultados dos jogos desenvolvidos durante o estudo de caso</center>
+<center>Desenvolvimento e resultados dos jogos desenvolvidos durante o estudo de caso</center> 
+<br>
+
+O framework está disponível na Plataforma MEC de Recursos Educacionais Digitais, podendo ser acessada por meio do link: <a href="https://plataformaintegrada.mec.gov.br/recurso/360513">Plataforma MEC Red - Empadaria</a>.
 
 A dissertação foi premiada no IV Simpósio Brasileiro de Educação em Computação (EduComp 2024) com o prêmio de 2° lugar no Concurso de Teses e Dissertações (CTD).
 
