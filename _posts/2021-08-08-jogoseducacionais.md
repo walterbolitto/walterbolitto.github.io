@@ -32,6 +32,8 @@ O termo pseudociência diz respeito a determinados conhecimentos nos quais pesso
 
 <a href="https://www.ludopedia.com.br/jogo/pseudociencia">Link do jogo na Ludopedia</a>
 
+O jogo também está disponível na Plataforma MEC de Recursos Educacionais Digitais, podendo ser acessada por meio do link: <a href="https://plataformaintegrada.mec.gov.br/recurso/360515">Plataforma MEC Red - Pseudociência</a>.
+
 ![pseudob]
 
 [pseudo]: /assets/img/posts/pseudo1.jpg "Imagem do jogo"
