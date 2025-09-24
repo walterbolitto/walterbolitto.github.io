@@ -6,6 +6,6 @@ tags: [textos]
 image: posts/Refuncionaware.png
 ---
 
-Escritos sobre o Pensamento Computacional Crítico e assuntos relacionados.
+Escritos sobre o Pensamento Computacional Crítico, Filosofia da Tecnologia e assuntos relacionados.
 
 <a href="https://refuncionalizar.github.io/">[Link](https://refuncionalizar.github.io/)</a>
