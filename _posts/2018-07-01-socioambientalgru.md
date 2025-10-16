@@ -6,7 +6,9 @@ tags: [produção-técnica]
 image: posts/socioambientalgru1.png	
 ---
 
-Com as novas tecnologias de cartografias digitais, os mapas colaborativos surgiram em função da necessidade das comunidades em se organizarem, onde, além do conscientização e engajamento por parte do colaborador, este também funciona como sensor no trabalho de monitoramento e levantamento dos dados. A realização de um estudo de mapeamento coletivo dos pontos de reciclagem, no contexto municipal, é capaz de identificar áreas com desigualdade ambiental, relacionado a ausência de instrumentos públicos de coleta e ao debate de ontologias ambientais. O projeto teve como objetivo, mapear e categorizar no território de Guarulhos, através de uma plataforma de mapeamento coletivo, atividades, agentes e espaços que se relacionam com iniciativas socioambientais, podendo analisar a dimensão participativa dos diversos setores dentro do espaço urbano de Guarulhos.
+O projeto teve como objetivo, mapear e categorizar no território de Guarulhos, através de uma plataforma de mapeamento coletivo, atividades, agentes e espaços que se relacionam com iniciativas socioambientais, podendo analisar a dimensão participativa dos diversos setores dentro do espaço urbano de Guarulhos.
+
+Com as novas tecnologias de cartografias digitais, os mapas colaborativos surgiram em função da necessidade das comunidades em se organizarem, onde, além do conscientização e engajamento por parte do colaborador, este também funciona como sensor no trabalho de monitoramento e levantamento dos dados. A realização de um estudo de mapeamento coletivo dos pontos de reciclagem, no contexto municipal, é capaz de identificar áreas com desigualdade ambiental, relacionado a ausência de instrumentos públicos de coleta e ao debate de ontologias ambientais. 
 
 ![map1]
 
