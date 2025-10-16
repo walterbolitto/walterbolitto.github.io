@@ -16,4 +16,4 @@ Escritos sobre o Pensamento Computacional Crítico, Filosofia da Tecnologia e as
       
 <a href="https://refuncionalizar.com.br/20240424/approaches-to-csed">Approaches to Computer Science in Education (2024)</a>
  
-<a href="https://refuncionalizar.com.br/20240424/approaches-to-csed">Manifesto Arquivista - Yuk Hui (2024)</a>
+<a href="https://refuncionalizar.com.br/20240409/manifestoarquivista">Manifesto Arquivista - Yuk Hui (2024)</a>
