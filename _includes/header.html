@@ -8,12 +8,11 @@
                 <div class="logo">
                     <div class="author-name">{{ site.author }}</div>
                 </div>
-            <div class="right-header-container"> 
-
-                    <div class="author-title"> <a href="{{site.about_url}}"> {{ site.about_title }} </a></div>
+				                {% include social-links.html %}
 
             </div>
-				  {% include social-links.html %}
+            <div class="right-header-container"> 
+                    <div class="author-title"> <a href="{{site.about_url}}"> {{ site.about_title }} </a></div>
             </div>
         </div>
     </div>
