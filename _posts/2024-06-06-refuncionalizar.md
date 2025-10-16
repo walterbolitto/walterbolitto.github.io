@@ -8,7 +8,7 @@ image: posts/Refuncionaware.png
 
 Escritos sobre o Pensamento Computacional Crítico, Filosofia da Tecnologia e assuntos relacionados.
 
-<a href="https://refuncionalizar.github.io/">[Link](https://refuncionalizar.github.io/)</a>
+<a href="https://refuncionalizar.com.br/">https://refuncionalizar.com.br/</a>
 
  <b>Textos publicados</b>
  
