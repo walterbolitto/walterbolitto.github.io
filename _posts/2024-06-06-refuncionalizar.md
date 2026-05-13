@@ -6,14 +6,6 @@ tags: [textos]
 image: posts/Refuncionaware.png
 ---
 
-Escritos sobre o Pensamento Computacional Crítico, Filosofia da Tecnologia e assuntos relacionados.
+Blog sobre Pensamento Computacional Crítico, Filosofia da Tecnologia e assuntos relacionados.
 
 <a href="https://refuncionalizar.com.br/">https://refuncionalizar.com.br/</a>
-
- <b>Textos publicados</b>
- 
-<a href="https://refuncionalizar.com.br/20241008/bibliografia_pc_critico">Bibliografia sobre o Pensamento Computacional Crítico (2024)</a>
-      
-<a href="https://refuncionalizar.com.br/20240424/approaches-to-csed">Approaches to Computer Science in Education (2024)</a>
- 
-<a href="https://refuncionalizar.com.br/20240409/manifestoarquivista">Manifesto Arquivista - Yuk Hui (2024)</a>
